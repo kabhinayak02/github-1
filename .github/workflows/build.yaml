@@ -1,4 +1,4 @@
-name: sonarqube
+name: build
 
 on:
   workflow_dispatch:  # This event allows manual triggering of the workflow
